@@ -77,15 +77,6 @@
       "nomor_bots": [
         "6283870222978"
       ]
-    },
-    {
-      "id": 9,
-      "nama": "Gemini AI",
-      "nomor_user": "6281112223334",
-      "password": "Gemini2025",
-      "nomor_bots": [
-        "6281112223334"
-      ]
     }
   ],
   "limits": {
