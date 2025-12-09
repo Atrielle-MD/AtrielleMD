@@ -5,6 +5,7 @@
       "nama": "NABIL",
       "nomor_user": "6285885773612",
       "password": "ownerkey",
+      "is_main_owner": true,
       "nomor_bots": [
         "6285885773612",
         "306997729946",
