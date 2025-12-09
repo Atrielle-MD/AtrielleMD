@@ -44,15 +44,6 @@
     },
     {
       "id": 5,
-      "nama": "wahyu",
-      "nomor_user": "6285150890370",
-      "password": "wahyu",
-      "nomor_bots": [
-        "6285150890370"
-      ]
-    },
-    {
-      "id": 6,
       "nama": "Raa",
       "nomor_user": "6281286096883",
       "password": "raa",
@@ -61,7 +52,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "nama": "angga",
       "nomor_user": "6283870222978",
       "password": "fanii",
@@ -70,7 +61,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "nama": "all kece",
       "nomor_user": "6288287106810",
       "password": "buljemb",
@@ -79,7 +70,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "nama": "Ashley",
       "nomor_user": "6283181451006",
       "password": "Ashleyhero12",
