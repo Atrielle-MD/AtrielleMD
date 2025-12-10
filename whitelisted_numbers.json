@@ -86,6 +86,15 @@
       "nomor_bots": [
         "6287854347824"
       ]
+    },
+    {
+      "id": 10,
+      "nama": "ANDI",
+      "nomor_user": "6285150890370",
+      "password": "andi",
+      "nomor_bots": [
+        "6285150890370"
+      ]
     }
   ],
   "limits": {
