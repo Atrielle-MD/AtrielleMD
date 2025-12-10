@@ -95,6 +95,15 @@
       "nomor_bots": [
         "6285150890370"
       ]
+    },
+    {
+      "id": 11,
+      "nama": "KANNA",
+      "nomor_user": "6282264988503",
+      "password": "kanna",
+      "nomor_bots": [
+        "6282264988503"
+      ]
     }
   ],
   "limits": {
