@@ -104,6 +104,15 @@
       "nomor_bots": [
         "6282264988503"
       ]
+    },
+    {
+      "id": 12,
+      "nama": "kagami",
+      "nomor_user": "6283163213746",
+      "password": "starboy",
+      "nomor_bots": [
+        "6283163213746"
+      ]
     }
   ],
   "limits": {
