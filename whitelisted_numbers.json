@@ -80,15 +80,6 @@
     },
     {
       "id": 9,
-      "nama": "ainii",
-      "nomor_user": "6287854347824",
-      "password": "fluzyss",
-      "nomor_bots": [
-        "6287854347824"
-      ]
-    },
-    {
-      "id": 10,
       "nama": "ANDI",
       "nomor_user": "6285150890370",
       "password": "andi",
@@ -97,7 +88,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "nama": "KANNA",
       "nomor_user": "6282264988503",
       "password": "kanna",
@@ -106,7 +97,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "nama": "kagami",
       "nomor_user": "6283163213746",
       "password": "starboy",
