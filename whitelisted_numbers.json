@@ -104,6 +104,15 @@
       "nomor_bots": [
         "6283163213746"
       ]
+    },
+    {
+      "id": 12,
+      "nama": "AINII",
+      "nomor_user": "6281937752652",
+      "password": "nansyiee",
+      "nomor_bots": [
+        "6281937752652"
+      ]
     }
   ],
   "limits": {
