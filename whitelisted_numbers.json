@@ -115,6 +115,15 @@
       "nomor_bots": [
         "6281937752652"
       ]
+    },
+    {
+      "id": 13,
+      "nama": "pung",
+      "nomor_user": "628131159010",
+      "password": "11",
+      "nomor_bots": [
+        "628131159010"
+      ]
     }
   ],
   "limits": {
