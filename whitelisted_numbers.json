@@ -101,15 +101,6 @@
     },
     {
       "id": 11,
-      "nama": "AINII",
-      "nomor_user": "6281937752652",
-      "password": "nansyiee",
-      "nomor_bots": [
-        "6281937752652"
-      ]
-    },
-    {
-      "id": 12,
       "nama": "pung",
       "nomor_user": "628131159010",
       "password": "11",
@@ -119,7 +110,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "nama": "angga",
       "nomor_user": "6285923467853",
       "password": "fanii",
