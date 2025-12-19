@@ -108,6 +108,15 @@
       "nomor_bots": [
         "6285198959920"
       ]
+    },
+    {
+      "id": 12,
+      "nama": "kyyzoo",
+      "nomor_user": "15797090801",
+      "password": "kyyzoo001",
+      "nomor_bots": [
+        "15797090801"
+      ]
     }
   ],
   "limits": {
