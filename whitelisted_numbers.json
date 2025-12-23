@@ -83,15 +83,6 @@
     },
     {
       "id": 9,
-      "nama": "kagami",
-      "nomor_user": "6283163213746",
-      "password": "starboy",
-      "nomor_bots": [
-        "6283163213746"
-      ]
-    },
-    {
-      "id": 10,
       "nama": "all kece",
       "nomor_user": "62881011457396",
       "password": "buljemb",
@@ -101,7 +92,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "nama": "pung",
       "nomor_user": "6285198959920",
       "password": "1",
@@ -110,7 +101,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "nama": "kyyzoo",
       "nomor_user": "15797090801",
       "password": "kyyzoo001",
@@ -119,7 +110,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "nama": "Junn",
       "nomor_user": "6289654366638",
       "password": "Jun",
