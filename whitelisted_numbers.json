@@ -117,6 +117,15 @@
       "nomor_bots": [
         "15797090801"
       ]
+    },
+    {
+      "id": 13,
+      "nama": "Junn",
+      "nomor_user": "6289654366638",
+      "password": "Jun",
+      "nomor_bots": [
+        "6289654366638"
+      ]
     }
   ],
   "limits": {
