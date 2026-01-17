@@ -148,6 +148,15 @@
         "6283866676785",
         "62895429250978"
       ]
+    },
+    {
+      "id": 16,
+      "nama": "anggi mirandi",
+      "nomor_user": "6289502233433",
+      "password": "skibiditoiletmewing",
+      "nomor_bots": [
+        "6289502233433"
+      ]
     }
   ],
   "limits": {
