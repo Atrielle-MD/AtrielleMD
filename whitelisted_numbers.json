@@ -17,16 +17,6 @@
     },
     {
       "id": 2,
-      "nama": "Ryu",
-      "nomor_user": "6289687359668",
-      "password": "memekl",
-      "nomor_bots": [
-        "6289687359668",
-        "6285199056970"
-      ]
-    },
-    {
-      "id": 3,
       "nama": "Raa",
       "nomor_user": "6281286096883",
       "password": "raa",
@@ -35,7 +25,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "nama": "Ashley",
       "nomor_user": "6283181451006",
       "password": "Ashleyhero12",
@@ -44,7 +34,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "nama": "ANDI",
       "nomor_user": "6285150890370",
       "password": "andi",
@@ -54,7 +44,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "nama": "KANNA",
       "nomor_user": "6282264988503",
       "password": "kanna",
@@ -63,7 +53,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "nama": "angga",
       "nomor_user": "6285923467853",
       "password": "fanii",
@@ -72,7 +62,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "nama": "ainii",
       "nomor_user": "6281389132425",
       "password": "nansyiee",
@@ -82,7 +72,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "nama": "all kece",
       "nomor_user": "62881011457396",
       "password": "buljemb",
@@ -92,7 +82,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "nama": "kyyzoo",
       "nomor_user": "15797090801",
       "password": "kyyzoo001",
@@ -101,7 +91,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "nama": "Junn",
       "nomor_user": "6289654366638",
       "password": "Jun",
@@ -112,7 +102,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "nama": "kagami",
       "nomor_user": "6282326915936",
       "password": "starbos",
@@ -122,7 +112,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "nama": "farid",
       "nomor_user": "6282193141043",
       "password": "jarvis",
@@ -131,7 +121,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 13,
       "nama": "zk",
       "nomor_user": "6285779075538",
       "password": "147258",
@@ -141,7 +131,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 14,
       "nama": "angga",
       "nomor_user": "6283866676785",
       "password": "fanii",
@@ -151,7 +141,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 15,
       "nama": "anggi mirandi",
       "nomor_user": "6289502233433",
       "password": "skibiditoiletmewing",
