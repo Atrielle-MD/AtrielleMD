@@ -156,6 +156,15 @@
       ],
       "created_by": "nabil",
       "created_at": "2026-02-06T00:19:59.745Z"
+    },
+    {
+      "id": 17,
+      "nama": "nabil",
+      "nomor_user": "6287746084500",
+      "password": "123",
+      "nomor_bots": [],
+      "created_by": "nabil",
+      "created_at": "2026-02-06T14:16:45.813Z"
     }
   ],
   "limits": {
