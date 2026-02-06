@@ -146,6 +146,15 @@
         "628811147684",
         "6285743270864"
       ]
+    },
+    {
+      "id": 16,
+      "nama": "Junn",
+      "nomor_user": "6288287677376",
+      "password": "Jun",
+      "nomor_bots": [],
+      "created_by": "nabil",
+      "created_at": "2026-02-06T00:19:59.745Z"
     }
   ],
   "limits": {
