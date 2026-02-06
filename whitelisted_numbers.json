@@ -90,17 +90,6 @@
     },
     {
       "id": 10,
-      "nama": "Junn",
-      "nomor_user": "6289654366638",
-      "password": "Jun",
-      "nomor_bots": [
-        "6289654366638",
-        "628976661827",
-        "6289673302633"
-      ]
-    },
-    {
-      "id": 11,
       "nama": "kagami",
       "nomor_user": "6282326915936",
       "password": "starbos",
@@ -110,7 +99,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "nama": "farid",
       "nomor_user": "6282193141043",
       "password": "jarvis",
@@ -119,7 +108,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "nama": "zk",
       "nomor_user": "6285779075538",
       "password": "147258",
@@ -129,7 +118,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 13,
       "nama": "angga",
       "nomor_user": "6283866676785",
       "password": "fanii",
@@ -139,7 +128,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 14,
       "nama": "anggi mirandi",
       "nomor_user": "6289502233433",
       "password": "skibiditoiletmewing",
@@ -149,7 +138,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 15,
       "nama": "ryu",
       "nomor_user": "628811147684",
       "password": "memekl",
