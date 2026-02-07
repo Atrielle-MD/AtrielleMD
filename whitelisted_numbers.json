@@ -162,7 +162,9 @@
       "nama": "bil",
       "nomor_user": "6287746084500",
       "password": "1",
-      "nomor_bots": [],
+      "nomor_bots": [
+        "6285702526159"
+      ],
       "created_by": "nabil",
       "created_at": "2026-02-07T06:57:23.861Z"
     }
