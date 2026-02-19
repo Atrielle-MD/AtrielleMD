@@ -163,7 +163,9 @@
       "nama": "Nabil",
       "nomor_user": "088271718985",
       "password": "itil123",
-      "nomor_bots": [],
+      "nomor_bots": [
+        "639752683584"
+      ],
       "created_by": "Jun",
       "created_at": "2026-02-19T12:14:38.361Z"
     }
