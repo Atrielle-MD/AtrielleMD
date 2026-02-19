@@ -157,6 +157,15 @@
       ],
       "created_by": "nabil",
       "created_at": "2026-02-06T00:19:59.745Z"
+    },
+    {
+      "id": 17,
+      "nama": "Nabil",
+      "nomor_user": "088271718985",
+      "password": "itil123",
+      "nomor_bots": [],
+      "created_by": "Jun",
+      "created_at": "2026-02-19T12:14:38.361Z"
     }
   ],
   "limits": {
