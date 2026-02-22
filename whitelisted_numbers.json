@@ -186,7 +186,9 @@
       "nama": "Wisdom",
       "nomor_user": "6283171177552",
       "password": "Wisdom",
-      "nomor_bots": [],
+      "nomor_bots": [
+        "62882017527724"
+      ],
       "created_by": "RCF",
       "created_at": "2026-02-22T15:39:02.908Z"
     }
