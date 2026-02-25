@@ -192,6 +192,15 @@
       ],
       "created_by": "RCF",
       "created_at": "2026-02-22T15:39:02.908Z"
+    },
+    {
+      "id": 20,
+      "nama": "gtau",
+      "nomor_user": "62813169763712",
+      "password": "itil123",
+      "nomor_bots": [
+        "62813169763712"
+      ]
     }
   ],
   "limits": {
