@@ -185,6 +185,15 @@
       ],
       "created_by": "owner",
       "created_at": "2026-02-28T20:07:04.840Z"
+    },
+    {
+      "id": 19,
+      "nama": "Angga",
+      "nomor_user": "6285923467853",
+      "password": "fani",
+      "nomor_bots": [],
+      "created_by": "owner",
+      "created_at": "2026-03-01T14:28:25.994Z"
     }
   ],
   "limits": {
