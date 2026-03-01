@@ -191,9 +191,7 @@
       "nama": "Angga",
       "nomor_user": "6285923467853",
       "password": "fani",
-      "nomor_bots": [
-        "6283876267386"
-      ],
+      "nomor_bots": [],
       "created_by": "owner",
       "created_at": "2026-03-01T14:28:25.994Z"
     }
