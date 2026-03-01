@@ -51,16 +51,6 @@
     },
     {
       "id": 6,
-      "nama": "angga",
-      "nomor_user": "6285923467853",
-      "password": "fanii",
-      "nomor_bots": [
-        "6285923467853",
-        "083876267386"
-      ]
-    },
-    {
-      "id": 7,
       "nama": "ainii",
       "nomor_user": "6281389132425",
       "password": "nansyiee",
@@ -70,7 +60,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "nama": "all kece",
       "nomor_user": "62881011457396",
       "password": "buljemb",
@@ -80,7 +70,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "nama": "kyyzoo",
       "nomor_user": "15797090801",
       "password": "kyyzoo001",
@@ -89,7 +79,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "nama": "kagami",
       "nomor_user": "6282326915936",
       "password": "starbos",
@@ -99,7 +89,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "nama": "farid",
       "nomor_user": "6282193141043",
       "password": "jarvis",
@@ -108,7 +98,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "nama": "zk",
       "nomor_user": "6285779075538",
       "password": "147258",
@@ -118,7 +108,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "nama": "anggi mirandi",
       "nomor_user": "6289502233433",
       "password": "skibiditoiletmewing",
@@ -128,7 +118,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 13,
       "nama": "Junn",
       "nomor_user": "6288287677376",
       "password": "Jun",
@@ -142,7 +132,7 @@
       "created_at": "2026-02-06T00:19:59.745Z"
     },
     {
-      "id": 15,
+      "id": 14,
       "nama": "Nabil",
       "nomor_user": "088271718985",
       "password": "itil123",
@@ -153,7 +143,7 @@
       "created_at": "2026-02-19T12:14:38.361Z"
     },
     {
-      "id": 16,
+      "id": 15,
       "nama": "buyer",
       "nomor_user": "0813169763712",
       "password": "itil123",
@@ -164,7 +154,7 @@
       "created_at": "2026-02-19T13:51:45.395Z"
     },
     {
-      "id": 17,
+      "id": 16,
       "nama": "Wisdom",
       "nomor_user": "6283171177552",
       "password": "Wisdom",
@@ -175,7 +165,7 @@
       "created_at": "2026-02-22T15:39:02.908Z"
     },
     {
-      "id": 18,
+      "id": 17,
       "nama": "gtau",
       "nomor_user": "62813169763712",
       "password": "itil123",
@@ -185,7 +175,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 18,
       "nama": "Ryu",
       "nomor_user": "628811147684",
       "password": "memekl",
